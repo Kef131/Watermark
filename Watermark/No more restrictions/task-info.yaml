@@ -1,0 +1,57 @@
+type: edu
+files:
+- name: src/watermark/Main.kt
+  visible: true
+  text: |-
+    package watermark
+
+    fun main() {
+        println("Hello World!")
+    }
+  learner_created: false
+- name: test/tall.png
+  visible: true
+  learner_created: true
+- name: test/grey.png
+  visible: true
+  learner_created: true
+- name: test/image5.png
+  visible: true
+  learner_created: true
+- name: test/70x50.png
+  visible: true
+  learner_created: true
+- name: test/bits16.png
+  visible: true
+  learner_created: true
+- name: test/out1.png
+  visible: true
+  learner_created: true
+- name: test/wide.png
+  visible: true
+  learner_created: true
+- name: test/WatermarkTest.kt
+  visible: true
+  learner_created: true
+- name: test/logorgb.png
+  visible: true
+  learner_created: true
+- name: test/logorgba.png
+  visible: true
+  learner_created: true
+- name: test/out2.png
+  visible: true
+  learner_created: true
+- name: test/out4.png
+  visible: true
+  learner_created: true
+- name: test/out3.png
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/17149#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: Fri, 12 Aug 2022 02:14:45 UTC
+record: -1
